@@ -19,7 +19,7 @@ Notice the difference in all the login and registration attempts by looking at t
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085283154610372629/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085283215780090030/image.png"/>
 
-## Register Local 
+## Register Google 
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085284581638426786/image.png" />
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085283317240303686/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085283768010555512/image.png"/>
