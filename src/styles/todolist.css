@@ -12,7 +12,7 @@
 }
 
 .todoList--borderColor{
-  border-color: green;
+  border-color: rgb(5, 41, 201);
   box-shadow: 0 6px 18px -9px hsl(210, 15%, 65%);
 }
 
@@ -35,7 +35,7 @@
 .checkbox-custom + .checkbox-custom-label:before {
   content: '';
   background: inherit;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 2px solid hsl(210, 15%, 70%);
   display: inline-block;
   vertical-align: middle;
@@ -50,10 +50,11 @@
   position: absolute;
   width: 2px;
   height: 6px;
-  border: solid green;
+  border: solid rgb(12, 41, 206);
   border-width: 0 3px 3px 0;
   transform: rotate(45deg);
   top: 2px; left: 5px;
+  justify-content: center;
 }
 
 .todoList__body p{
@@ -72,7 +73,7 @@
 }
 
 .todoList__buttons > button {
-  background-color: hsl(210, 70%, 60%);
+  background-color: hsl(234, 70%, 44%);
   padding: 5px 10px;
   font-size: 16px;
   border: none;
@@ -81,7 +82,7 @@
 }
 
 .todoList__buttons > button:hover {
-  background-color: hsl(210, 70%, 50%);
+  background-color: hsl(258, 90%, 42%);
 }
 
 .todoList__buttons > button:active{
@@ -93,7 +94,7 @@
   background-color: transparent;
   border: none;
   font-size: 16px;
-  color: hsl(210, 10%, 55%);
+  color: hsl(211, 15%, 33%);
 }
 
 .todoList__editButton:hover {

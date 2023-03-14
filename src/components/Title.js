@@ -21,7 +21,7 @@ function Title() {
 
   return (
     <div className="title">
-      <header>Todo App</header>
+      <header>To-Do App</header>
       <div className="title__container">
         <button onClick={() => setOpenAddModal(true)}>New Task +</button>
         <div className="title">
