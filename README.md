@@ -5,7 +5,7 @@ Maria Clarin (2501990331) L4AC
 Notice the difference in all the login and registration attempts by looking at the name and the email of the user.
 
 ## Login Page
-<img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085281447276970074/image.png" />
+<img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085281447276970074/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085281587089903626/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085282453465333770/image.png"/>
 
@@ -27,6 +27,7 @@ Notice the difference in all the login and registration attempts by looking at t
 ## Reset Password
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085285589068288050/image.png"/>
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085282773641724004/image.png"/>
+<img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085425561276534904/image.png"/>
 
 ## Firestore Database "users"
 <img src="https://cdn.discordapp.com/attachments/1085281417904275536/1085286056045314048/image.png"/>
